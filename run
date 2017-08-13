@@ -1,0 +1,5 @@
+#!/bin/bash
+# -*- coding: utf-8 -*-
+
+java -jar ./target/mv-weapons-editor-1.0.0-jar-with-dependencies.jar $1 $2 $3 $4
+
